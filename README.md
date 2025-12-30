@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my React.js mini projects.<br>I am learning the React Framework after completing HTML, CSS, and JAVASCRIPT <br>basics <br>I am also searching for my first internship as a frontend web developer<br>a fun fact about me is i am an overthinker, so always tention about somthing<br>
+I am currently working on my React.js mini projects.<br>I am learning the React Framework after completing HTML, CSS, and JAVASCRIPT <br> <br>I am also searching for my first internship as a frontend web developer<br>a fun fact about me is i am an overthinker, so always tensioned about somthing<br>
 
 
 ## 🌐 Socials:
